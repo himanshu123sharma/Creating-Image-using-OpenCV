@@ -1,4 +1,4 @@
-# LW-Task-4
+# Playing with Image using OpenCv
 
 Task Description 📄
 
